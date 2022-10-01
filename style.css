@@ -10,7 +10,7 @@
 main{
 	font-family: 'Righteous', cursive;
 	min-height: 100vh;
-	background: linear-gradient(#000f20,#004b9f,#0077fd);
+	background-color: #0077fd;
 	display: flex;
 	justify-content: center;
 	align-items: center;
